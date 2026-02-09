@@ -1,0 +1,6 @@
+MERN
+ M= mongoDB ( No SQLdatabase -- data always store in key value pair)
+ E= Express (server)
+ R= React (frontend-- always client side)
+ N= Node.js (backend framework--JS language)
+Js is a scripting languaged

@@ -14,3 +14,9 @@ module.exports = {
   register,
   login
 }
+
+//MERN
+// M= mongoDB ( No SQLdatabase)
+// E= Express (Backend framework)
+// R= React (Frontend framework)
+// N= NodeJS (Backend runtime environment)
